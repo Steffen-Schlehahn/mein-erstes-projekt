@@ -1,0 +1,9 @@
+# Mein erstes Python Programm auf GitHub
+# Autor: Steffen Schlehahn
+
+def main():
+    print("Hallo GitHub!")
+    print("Ich lerne Versionskontrolle")
+    
+if __name__ == "__main__":
+    main()
